@@ -1,4 +1,4 @@
-# Hi there, I'm [Mark] 👋
+# Hi there, I'm Mark 👋
 
 ## About Me
 
@@ -52,7 +52,6 @@ A modern landing page showcasing CSS Grid, Flexbox, and responsive design princi
 
 ## GitHub Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dobladamark&theme=radical&row=1)
 ![dobladamark's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dobladamark&theme=dracula&hide_border=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dobladamark&theme=github-compact)
 
