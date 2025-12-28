@@ -12,9 +12,9 @@ I'm a frontend developer focused on building clean, responsive websites with the
 
 🎯 My goal is to build a strong foundation in web development fundamentals
 
-📫 How to reach me: [your email]
+📫 How to reach me: [dobladamark1@gmail.com]
 
-⚡ Fun fact: [something interesting about you]
+
 
 ## Tech Stack
 
@@ -34,10 +34,10 @@ I'm a frontend developer focused on building clean, responsive websites with the
 
 I'm focused on creating projects that demonstrate solid understanding of web fundamentals:
 
-- **Responsive Websites**: Building mobile-first, accessible websites
+- **Responsive Websites**: Building accessible websites
 - **Interactive UIs**: Creating dynamic user interfaces with vanilla JavaScript
 - **CSS Animations**: Crafting smooth, performant animations
-- **DOM Manipulation**: Building interactive features without frameworks
+
 
 ## Featured Projects
 
@@ -52,7 +52,7 @@ A modern landing page showcasing CSS Grid, Flexbox, and responsive design princi
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dobladamark&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
