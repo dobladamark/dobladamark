@@ -1,65 +1,48 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there! 👋
 
 ## About Me
 
-I'm a [Your Role/Title] passionate about [your interests/specialties]. I love building [type of projects] and contributing to open source.
+I'm a developer who enjoys exploring code and building things. I believe in learning by doing and sharing what I discover along the way.
 
-🔭 I'm currently working on [current project or focus area]
+🔨 I work on projects that interest me and solve real problems
 
-🌱 I'm currently learning [technologies or skills you're developing]
+💭 I'm curious about new technologies and always open to learning
 
-👯 I'm looking to collaborate on [types of projects or technologies]
+🤝 I enjoy collaborating with others and contributing to meaningful projects
 
-💬 Ask me about [your areas of expertise]
+📍 Based in Binangonan, Calabarzon, Philippines
 
-📫 How to reach me: [your email or preferred contact method]
+## What I'm Up To
 
-⚡ Fun fact: [something interesting about you]
+Right now, I'm focused on building practical projects and improving my craft. I code when inspiration strikes and enjoy the process of creating something from nothing.
 
-## Tech Stack
+## My Approach
 
-**Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+I don't follow rigid learning paths or chase every trending framework. Instead, I:
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+- Build projects that genuinely interest me
+- Learn what I need when I need it
+- Focus on understanding fundamentals over collecting badges
+- Contribute when I have something meaningful to add
+- Keep things simple and practical
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+## Projects
 
-## Featured Projects
+Check out my repositories to see what I've been working on. Each project represents something I found interesting or useful enough to build.
 
-### [Project Name 1](link-to-repo)
-Brief description of what this project does and the technologies used.
+## GitHub Activity
 
-### [Project Name 2](link-to-repo)
-Brief description of what this project does and the technologies used.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
 
-### [Project Name 3](link-to-repo)
-Brief description of what this project does and the technologies used.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
 
-## GitHub Stats
+## Let's Connect
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## Connect With Me
+I'm always open to interesting conversations and collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
 
 ---
 
-💡 *"Insert your favorite quote or motto here"*
+*"Code is just a tool. What matters is what you build with it."*
