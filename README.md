@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a frontend developer focused on building clean, responsive websites with the fundamentals. I believe in mastering the core web technologies before jumping into frameworks.
+I'm a frontend developer focused on building clean, responsive websites with the fundamentals.
 
 🔭 I'm currently working on building projects with vanilla JavaScript
 
