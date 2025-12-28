@@ -52,9 +52,13 @@ A modern landing page showcasing CSS Grid, Flexbox, and responsive design princi
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dobladamark&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dobladamark&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobladamark&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobladamark&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## Connect With Me
 
