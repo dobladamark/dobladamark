@@ -4,7 +4,7 @@
 
 🔭 I'm currently working on building projects with vanilla JavaScript
 
-🌱 I'm currently learning advanced JavaScript concepts and modern CSS techniques
+🌱 I'm currently learning JavaScript concepts and modern CSS techniques
 
 💻 I'm focusing on mastering HTML, CSS, and JavaScript
 
