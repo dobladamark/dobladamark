@@ -27,25 +27,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## What I'm Building
-
-I'm focused on creating projects that demonstrate solid understanding of web fundamentals:
-
-- **Responsive Websites**: Building accessible websites
-- **Interactive UIs**: Creating dynamic user interfaces with vanilla JavaScript
-- **CSS Animations**: Crafting smooth, performant animations
 
 
-## Featured Projects
-
-### [Project Name 1](link-to-repo)
-A responsive website built with HTML, CSS, and JavaScript. Features include [key features].
-
-### [Project Name 2](link-to-repo)
-An interactive web application using vanilla JavaScript for [purpose/functionality].
-
-### [Project Name 3](link-to-repo)
-A modern landing page showcasing CSS Grid, Flexbox, and responsive design principles.
 
 ## GitHub Stats
 
@@ -61,4 +44,4 @@ A modern landing page showcasing CSS Grid, Flexbox, and responsive design princi
 
 ---
 
-💡 *"Master the fundamentals, and everything else becomes easier."*
+
