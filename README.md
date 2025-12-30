@@ -10,7 +10,6 @@
 
 🎯 My goal is to build a strong foundation in web development fundamentals
 
-📫 How to reach me: [dobladamark1@gmail.com]
 
 
 
