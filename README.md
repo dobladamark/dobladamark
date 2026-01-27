@@ -35,6 +35,7 @@
 ![dobladamark's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dobladamark&theme=dracula&hide_border=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dobladamark&theme=github-compact)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobladamark&show_icons=true&locale=en&layout=compact" alt="dobladamark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andricole12&show_icons=true&locale=en" alt="andricole12" /></p>
 
 
 
