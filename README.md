@@ -32,10 +32,12 @@
 
 ## GitHub Stats
 
-![dobladamark's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dobladamark&theme=dracula&hide_border=true)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dobladamark&theme=github-compact)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dobladamark&show_icons=true&locale=en&layout=compact" alt="dobladamark" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dobladamark&show_icons=true&locale=en" alt="dobladamark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dobladamark&" alt="dobladamark" /></p>
+
 
 
 
